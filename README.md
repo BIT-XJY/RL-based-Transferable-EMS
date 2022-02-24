@@ -2,7 +2,7 @@
 
 Source code for **A Comparative Study of Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles** for IV 2022.
 
-If you use our implementation in your academic work, please cite the corresponding paper:
+If you use our implementation in your academic work, please cite the corresponding [paper](https://arxiv.org/abs/2202.11514):
 
 ```
 @misc{xu2022comparative,
