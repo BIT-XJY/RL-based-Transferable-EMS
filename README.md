@@ -1,7 +1,7 @@
 # A-Comparative-Study-of-Reinforcement-Learning-based-Transferable-EMS-for-HEVs
 
 Source code for **A Comparative Study of Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles** for IV 2022.
-
+More results will be presented in our next work.
 If you use our implementation in your academic work, please cite the corresponding [paper](https://arxiv.org/abs/2202.11514):
 
 ```
