@@ -12,8 +12,6 @@ If you use our implementation in your academic work, please cite the correspondi
   booktitle={2022 IEEE Intelligent Vehicles Symposium (IV)}, 
   title={A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles}, 
   year={2022},
-  volume={},
-  number={},
   pages={470-477},
   doi={10.1109/IV51971.2022.9827042}}
 ```
