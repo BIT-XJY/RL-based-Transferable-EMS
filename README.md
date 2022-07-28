@@ -2,17 +2,18 @@
 
 Source code for **A Comparative Study of Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles** for IV 2022. More results will be presented in the next work.
 
-If you use our implementation in your academic work, please cite the corresponding [paper](https://arxiv.org/abs/2202.11514):
+If you use our implementation in your academic work, please cite the corresponding [IEEE Xplore IV 2022](https://ieeexplore.ieee.org/document/9827042) [ArXiv](https://arxiv.org/abs/2202.11514):
  
 ```
-@misc{xu2022comparative,
-      title={A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles}, 
-      author={Jingyi Xu and Zirui Li and Li Gao and Junyi Ma and Qi Liu and Yanan Zhao},
-      year={2022},
-      eprint={2202.11514},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
+@INPROCEEDINGS{xu2022iv,
+  author={Xu, Jingyi and Li, Zirui and Gao, Li and Ma, Junyi and Liu, Qi and Zhao, Yanan},
+  booktitle={2022 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={A Comparative Study of Deep Reinforcement Learning-based Transferable Energy Management Strategies for Hybrid Electric Vehicles}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={470-477},
+  doi={10.1109/IV51971.2022.9827042}}
 ```
 
 
