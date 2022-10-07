@@ -41,5 +41,9 @@ Before using our code, the following dependencies are needed:
 - matplotlib 3.4.3
 
 ## Tutorial
-Coming soon ...
 
+Data_Standard Driving Cycles: training data and test data
+
+DDPG_Prius_source_adding_noise.py: the code of training in the source domain. If adding action space noise, you can set "action_noise_type" as "gs" or "ou" to add a simple Gaussian noise or a more advanced Ornstein-Uhlenbeck (OU) correlated noise process, respectively. If not adding action space noise, you can just set "action_noise_type" as "None". If adding parameter space noise, you can set the hyper-parameter "param_noise" of the choose_action function as True. Otherwise, set it as False.
+
+DDPG_Prius_transfer_learning.py: the code of training in the target domain. The method of adding different types of noise is the same as training in the source domain.
